@@ -1,4 +1,4 @@
 #!/bin/bash
-chown --from=guillame vincent hello
+chown --from=guillaume vincent hello
 
 
